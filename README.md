@@ -69,6 +69,7 @@ npx prisma generate
 npm run dev
 ```
 > Observação: para o projeto, garanta que o Node.js e o Docker esteja instalado corretamente em sua máquina. Para instalar o Node.js acesse [Node.js](https://nodejs.org/en/download/prebuilt-installer) e o [Docke](https://www.docker.com/products/docker-desktop/)
+
 > Configure as variaveis de ambiente
 > .env
 > `DATABASE_URL="postgres://postgres@localhost:5432/secflow_dev"`
