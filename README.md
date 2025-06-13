@@ -1,5 +1,5 @@
 <h1>A3 - Teoria da computação e compiladores</h1>
-___
+
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=React&message=framework&color=blue&style=for-the-badge&logo=React"/>
   <img src="https://img.shields.io/static/v1?label=Next&message=framework&color=green&style=for-the-badge&logo=nextdotjs"/>
@@ -70,10 +70,11 @@ npm run dev
 ```
 > Observação: para o projeto, garanta que o Node.js esteja instalado corretamente em sua máquina. Para instalar o Node.js acesse [Node.js](https://nodejs.org/en/download/prebuilt-installer)
 ## Layout da Aplicação :computer:
-![[Pasted image 20250613042651.png]]
-![[Pasted image 20250613042714.png]]
-![[Pasted image 20250613043027.png]]
-![[Pasted image 20250613043045.png]]
+![Pasted image 20250613042651](https://github.com/user-attachments/assets/46327d8e-7a90-444a-8f58-0f8ba0759972)
+![Pasted image 20250613042714](https://github.com/user-attachments/assets/48b7b254-68ae-4e73-b9fe-9adee60bc472)
+![Pasted image 20250613043007](https://github.com/user-attachments/assets/d5a5aa8b-3aa2-4554-9f25-f10f1d8a46d8)
+![Pasted image 20250613043027](https://github.com/user-attachments/assets/cad07208-ca01-43c3-9b9f-811633463128)
+![Pasted image 20250613043045](https://github.com/user-attachments/assets/3e5b2171-7b71-41fe-b101-ca8c0d33853f)
 
 ## Linguagens, dependencias e libs utilizadas :books:
 
