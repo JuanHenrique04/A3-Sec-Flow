@@ -115,4 +115,4 @@ npm run dev
 
 [<img src="https://github.com/JuanHenrique04.png" width=200><br><p>Juan Henrique</p>](https://www.linkedin.com/in/juan-henrique-04b072235/)
 
-[^1]: Listar registros
+
