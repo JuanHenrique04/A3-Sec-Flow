@@ -68,7 +68,15 @@ npx prisma generate
 ```sh
 npm run dev
 ```
-> Observação: para o projeto, garanta que o Node.js esteja instalado corretamente em sua máquina. Para instalar o Node.js acesse [Node.js](https://nodejs.org/en/download/prebuilt-installer)
+> Observação: para o projeto, garanta que o Node.js e o Docker esteja instalado corretamente em sua máquina. Para instalar o Node.js acesse [Node.js](https://nodejs.org/en/download/prebuilt-installer) e o [Docke](https://www.docker.com/products/docker-desktop/)
+> Configure as variaveis de ambiente
+> .env
+> `DATABASE_URL="postgres://postgres@localhost:5432/secflow_dev"`
+> .env.local
+> `AUTH_SECRET=[Sua secret]`
+> `AUTH_GITHUB_ID=Seu auth github id`
+> `AUTH_GITHUB_SECRET=Sua github secret`
+
 ## Layout da Aplicação :computer:
 ![Pasted image 20250613042651](https://github.com/user-attachments/assets/46327d8e-7a90-444a-8f58-0f8ba0759972)
 ![Pasted image 20250613042714](https://github.com/user-attachments/assets/48b7b254-68ae-4e73-b9fe-9adee60bc472)
