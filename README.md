@@ -79,11 +79,11 @@ npm run dev
 > `AUTH_GITHUB_SECRET=Sua github secret`
 
 ## Layout da Aplicação :computer:
+![Pasted image 20250613043045](https://github.com/user-attachments/assets/3e5b2171-7b71-41fe-b101-ca8c0d33853f)
 ![Pasted image 20250613042651](https://github.com/user-attachments/assets/46327d8e-7a90-444a-8f58-0f8ba0759972)
 ![Pasted image 20250613042714](https://github.com/user-attachments/assets/48b7b254-68ae-4e73-b9fe-9adee60bc472)
 ![Pasted image 20250613043007](https://github.com/user-attachments/assets/d5a5aa8b-3aa2-4554-9f25-f10f1d8a46d8)
 ![Pasted image 20250613043027](https://github.com/user-attachments/assets/cad07208-ca01-43c3-9b9f-811633463128)
-![Pasted image 20250613043045](https://github.com/user-attachments/assets/3e5b2171-7b71-41fe-b101-ca8c0d33853f)
 
 ## Linguagens, dependencias e libs utilizadas :books:
 
